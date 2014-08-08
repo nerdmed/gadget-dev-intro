@@ -68,7 +68,7 @@ The gadget communicates with the Versal player through the `postMessage` API, wh
 
 This repository includes a basic "Hello, World!" gadget for you to get started. Inside the `hello-world-gadget` directory, you can just open [index.html](./hello-world-gadget/index.html) to see the gadget as viewed by a learner. The code in [main.js](./hello-world-gadget/main.js) demonstrates how to use property sheets, the configuration data, and the learner-specific data.
 
-Further sample gadgets are available in the repositories [Versal/highlightr-iframe](https://github.com/Versal/highlightr-iframe), [Versal/challenges-gadgets](https://github.com/Versal/challenges-gadgets), and [Versal/highlightr-iframe](https://github.com/Versal/highlightr-iframe).
+Further sample gadgets are available in the repositories [Versal/highlightr-iframe](https://github.com/Versal/highlightr-iframe), [Versal/challenges-gadgets](https://github.com/Versal/challenges-gadgets).
 
 ### Conceptual example: a "word gallery" gadget
 
